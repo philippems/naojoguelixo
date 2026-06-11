@@ -6,6 +6,7 @@ Exposição virtual e plataforma colaborativa de mapeamento de tipografia vernac
 Mapeamento de tipografia vernacular sobre descarte de lixo na Região Metropolitana do Recife. Navegue pelo mapa interativo no site, conheça a exposição virtual completa e envie sua foto.
 
 // INSTAGRAM:
+
 https://www.instagram.com/naojoguelixo/
 
 // FOTOLIVRO
